@@ -26,48 +26,47 @@ const app = {
         {
           name: "Chạy Về Nơi Phía Anh",
           singer: "Khắc Việt",
-          path: "../App_music/music/ChayVeNoiPhiaAnh-KhacViet-7129688.mp3",
+          path: "./music/ChayVeNoiPhiaAnh-KhacViet-7129688.mp3",
           image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/3/0/d/630d20b0a79917e1545b4e2ada081040.jpg"
         },
         {
           name: "Đế Vương",
           singer: "Đình Dũng",
-          path: "../App_music/music/DeVuong-DinhDungACV-7121634.mp3",
+          path: "./music/DeVuong-DinhDungACV-7121634.mp3",
           image:
             "https://kienthucmoi.net/img/thumbnail/2021/12/13/loi-bai-hat-de-vuong-al.jpg"
         },
         {
           name: "Lời Hứa",
           singer: "Nam Cường & Khắc Việt",
-          path: "../App_music/music/LoiHuaPromise-NamCuong-KhacViet_32p43.mp3",
+          path: "./music/LoiHuaPromise-NamCuong-KhacViet_32p43.mp3",
           image: "https://avatar-ex-swe.nixcdn.com/playlist/2013/11/06/c/c/a/8/1383712492707_500.jpg"
         },
         {
           name: "Mượn Rượu Tỏ Tình",
           singer: "Emily & BigDaddy",
-          path: "../App_music/music/MuonRuouToTinh-EmilyBigDaddy-5871420.mp3",
+          path: "./music/MuonRuouToTinh-EmilyBigDaddy-5871420.mp3",
           image:
             "https://avatar-ex-swe.nixcdn.com/song/2019/02/12/f/4/4/4/1549959720035_640.jpg"
         },
         {
           name: "Ngày Đầu Tiên",
           singer: "Đức Phúc",
-          path: "../App_music/music/NgayDauTien-DucPhuc-7129810.mp3",
+          path: "./music/NgayDauTien-DucPhuc-7129810.mp3",
           image:
             "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/2/2/2/d222783b7861ffd1acef2c9e368561f9.jpg"
         },
         {
           name: "Hãy Trao Cho Anh",
           singer: "Sơn Tùng M-TP",
-          path:
-            "../App_music/music/HayTraoChoAnh-SonTungMTPSnoopDogg-6010660.mp3",
+          path: "./music/HayTraoChoAnh-SonTungMTPSnoopDogg-6010660.mp3",
           image:
             "https://avatar-ex-swe.nixcdn.com/song/2019/07/10/f/2/6/d/1562743430057_640.jpg"
         },
         {
           name: "Tệ Thật Anh Nhớ Em",
           singer: "Thanh Hưng",
-          path: "../App_music/music/TeThatAnhNhoEm-ThanhHung-7132634.mp3",
+          path: "./music/TeThatAnhNhoEm-ThanhHung-7132634.mp3",
           image:
             "https://dj24h.com/wp-content/uploads/2022/03/te-that-anh-nho-em-thanh-hung.jpg"
         }
